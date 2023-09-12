@@ -1,3 +1,6 @@
+![image](https://github.com/stzivel/usePopcorn/assets/58048079/7125f65c-cbd1-4469-991a-44a5578da0e3)
+![image](https://github.com/stzivel/usePopcorn/assets/58048079/f6236faf-28ca-40a1-8733-c216322d0c8b)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
